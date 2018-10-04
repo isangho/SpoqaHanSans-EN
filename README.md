@@ -25,7 +25,8 @@
 
 - 리스트 추출: http://torinak.com/font/lsfont.html
 - 추출한 리스트로 서브셋 다시 묶는 툴: https://opentype.jp/subsetfontmk.htm
-- 추출툴 사용법: https://spoqa.github.io/2015/10/14/making-spoqa-han-sans.html
+- 서브셋 추출툴 사용법: https://spoqa.github.io/2015/10/14/making-spoqa-han-sans.html
+- TTF to WOFF/WOFF2 변환툴: https://everythingfonts.com/ttf-to-woff2
 
 
 작업자: 이상호
